@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.21,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "e..."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "\rthat's it?"
+		},
+		{
+			"speed": 0.195,
+			"portrait": "rayman",
+			"boxState": "normal",
+			"expression": "meh",
+			"text": "ehh..."
+		},
+		{
+			"speed": 0.19,
+			"portrait": "rayman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yes?"
+		},
+		{
+			"speed": 0.125,
+			"portrait": "rayman",
+			"boxState": "normal",
+			"expression": "meh",
+			"text": "I think..."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "\rwtf's wrong with your voices"
+		},
+		{
+			"speed": 0.125,
+			"portrait": "rayman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "\rmy voice?"
+		},
+		{
+			"speed": 0.13,
+			"portrait": "rayman",
+			"boxState": "normal",
+			"expression": "meh",
+			"text": "what has my voice?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lol"
+		},
+		{
+			"speed": 0.095,
+			"portrait": "rayman",
+			"boxState": "normal",
+			"expression": "meh",
+			"text": "do you want another?"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "\rno, thanks"
+		},
+		{
+			"speed": 0.095,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "\ryou sing very boring"
+		},
+		{
+			"speed": 0.33,
+			"portrait": "rayman",
+			"boxState": "normal",
+			"expression": "meh",
+			"text": "..."
+		}
+	]
+}

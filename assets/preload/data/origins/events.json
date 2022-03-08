@@ -1,0 +1,1239 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "fondorayman",
+		"player1": "bf",
+		"player2": "rayman",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"0.50"
+					]
+				]
+			],
+			[
+				93600,
+				[
+					[
+						"Set Cam Zoom",
+						"1.50",
+						""
+					]
+				]
+			],
+			[
+				94200,
+				[
+					[
+						"Set Cam Zoom",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				94425,
+				[
+					[
+						"Play Animation",
+						"axe",
+						"rayman"
+					]
+				]
+			],
+			[
+				95100,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				95850,
+				[
+					[
+						"Change Character",
+						"1",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				96600,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				97050,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				99000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				99450,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				100200,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				100500,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				101400,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				101850,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				103200,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				104850,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				116400,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				117600,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				118800,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				120900,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				121200,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				122025,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				122250,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				122400,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				123300,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				123750,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				124500,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				125700,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				126900,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				128100,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				129300,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				130200,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				131400,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				132600,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				133200,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				133650,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				134100,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				153750,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				153900,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				155400,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				155775,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				156000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				157200,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				157350,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				158100,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				158400,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				159300,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				159450,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				159600,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				159750,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				160050,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				160200,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				160500,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				160950,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				161100,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				161475,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				161625,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				161775,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				161925,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				162600,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				162900,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				163200,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				164475,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				164625,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				165300,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				166800,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				167100,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				167400,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				167700,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				169050,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				169800,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				169950,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				170400,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				171075,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				171225,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				171375,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				171525,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				172350,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				172650,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				182400,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				183000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				183600,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				184200,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				184800,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				185400,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				186000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				186600,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				187200,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				187650,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				188100,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				188400,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				189000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				189600,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				190200,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				190650,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				191100,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				191700,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				201600,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				202800,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				204000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				205200,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				206400,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				207300,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				207600,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				208500,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				208650,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				208800,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				209700,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				210150,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				210900,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				211200,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				211800,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				211950,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				212100,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				212250,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				212400,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				212550,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "origins"
+	}
+}
