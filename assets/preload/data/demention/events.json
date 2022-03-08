@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "white2",
+		"player1": "bff",
+		"player2": "rar",
+		"player3": null,
+		"events": [
+			[
+				5538.46153846154,
+				[
+					[
+						"Play Animation",
+						"butt",
+						"bff"
+					]
+				]
+			],
+			[
+				29076.9230769231,
+				[
+					[
+						"Play Animation",
+						"butt",
+						"bff"
+					]
+				]
+			],
+			[
+				51692.3076923077,
+				[
+					[
+						"Play Animation",
+						"butt",
+						"bff"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "raymanExe",
+		"bpm": 130,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "demention"
+	}
+}
