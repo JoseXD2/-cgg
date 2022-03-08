@@ -1,0 +1,999 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "fondorayman",
+		"player1": "bf",
+		"player2": "rayman angry",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				83.3333333333333,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"0.90"
+					]
+				]
+			],
+			[
+				10666.6666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				14000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				17333.3333333333,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				20000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				34666.6666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				39333.3333333333,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				42666.6666666667,
+				[
+					[
+						"Set Cam Zoom",
+						"1.10",
+						""
+					]
+				]
+			],
+			[
+				53333.3333333334,
+				[
+					[
+						"Set Cam Zoom",
+						"1.20",
+						""
+					]
+				]
+			],
+			[
+				55000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				59666.6666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				62000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				84666.6666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				85333.3333333333,
+				[
+					[
+						"Set Cam Zoom",
+						"1.20",
+						""
+					]
+				]
+			],
+			[
+				90666.6666666666,
+				[
+					[
+						"Set Cam Zoom",
+						"1.10",
+						""
+					]
+				]
+			],
+			[
+				92000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"Set Cam Zoom",
+						"1.20",
+						""
+					]
+				]
+			],
+			[
+				101333.333333333,
+				[
+					[
+						"Set Cam Zoom",
+						"1.30",
+						""
+					]
+				]
+			],
+			[
+				104000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				106000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				106666.666666667,
+				[
+					[
+						"Set Cam Zoom",
+						"1.20",
+						""
+					]
+				]
+			],
+			[
+				108666.666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				109333.333333333,
+				[
+					[
+						"Set Cam Zoom",
+						"1.10",
+						""
+					]
+				]
+			],
+			[
+				111666.666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.40",
+						""
+					]
+				]
+			],
+			[
+				113666.666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				114666.666666667,
+				[
+					[
+						"Set Cam Zoom",
+						"1.60",
+						""
+					]
+				]
+			],
+			[
+				115916.666666667,
+				[
+					[
+						"Set Cam Zoom",
+						"1.30",
+						""
+					]
+				]
+			],
+			[
+				116000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				117333.333333333,
+				[
+					[
+						"Set Cam Zoom",
+						"1.10",
+						""
+					]
+				]
+			],
+			[
+				122666.666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				125000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				127916.666666666,
+				[
+					[
+						"Set Cam Zoom",
+						"1.30",
+						""
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				138583.333333333,
+				[
+					[
+						"Set Cam Zoom",
+						"1.20",
+						""
+					]
+				]
+			],
+			[
+				138666.666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				141000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				143333.333333333,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				146000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				147833.333333333,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				149000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				149333.333333333,
+				[
+					[
+						"Set Cam Zoom",
+						"1.40",
+						""
+					]
+				]
+			],
+			[
+				154666.666666667,
+				[
+					[
+						"Set Cam Zoom",
+						"1.30",
+						""
+					]
+				]
+			],
+			[
+				155000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				156666.666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				157833.333333333,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				158666.666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				159666.666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				160333.333333333,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				164000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.20",
+						""
+					]
+				]
+			],
+			[
+				165500,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				165666.666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				166333.333333333,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				167333.333333333,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				168666.666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				169250,
+				[
+					[
+						"Set Cam Zoom",
+						"1.20",
+						""
+					]
+				]
+			],
+			[
+				169333.333333333,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				170333.333333333,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				170666.666666667,
+				[
+					[
+						"Set Cam Zoom",
+						"1.10",
+						""
+					]
+				]
+			],
+			[
+				181333.333333334,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.20",
+						""
+					]
+				]
+			],
+			[
+				197333.333333334,
+				[
+					[
+						"Set Cam Zoom",
+						"1.10",
+						""
+					]
+				]
+			],
+			[
+				199500,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				201000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				201500,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				202666.666666667,
+				[
+					[
+						"Set Cam Zoom",
+						"1.40",
+						""
+					]
+				]
+			],
+			[
+				207333.333333334,
+				[
+					[
+						"Set Cam Zoom",
+						"1.50",
+						""
+					]
+				]
+			],
+			[
+				208000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.30",
+						""
+					]
+				]
+			],
+			[
+				209166.666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				210166.666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				210500,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				211666.666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				211833.333333334,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				212333.333333334,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				213000,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				213250,
+				[
+					[
+						"Set Cam Zoom",
+						"1.60",
+						""
+					]
+				]
+			],
+			[
+				213333.333333334,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				223916.666666667,
+				[
+					[
+						"Set Cam Zoom",
+						"1.40",
+						""
+					]
+				]
+			],
+			[
+				224000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				225333.333333334,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				226000,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				227000.000000001,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				227500.000000001,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				228833.333333334,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				229166.666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				230500.000000001,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				231666.666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				231833.333333334,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				232666.666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				232833.333333334,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				233333.333333334,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				234333.333333334,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			],
+			[
+				234583.333333334,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				234666.666666667,
+				[
+					[
+						"Play Animation",
+						"axe atack",
+						"rayman angry"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "legends"
+	}
+}
