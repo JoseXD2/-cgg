@@ -1,0 +1,269 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "Rfunado",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Play Animation",
+						"baby",
+						"Rfunado"
+					]
+				]
+			],
+			[
+				2400,
+				[
+					[
+						"Set Cam Zoom",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				3800,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				17900,
+				[
+					[
+						"Set Cam Zoom",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				18800,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				20000,
+				[
+					[
+						"Set Cam Zoom",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				21300,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				25800,
+				[
+					[
+						"Set Cam Zoom",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				26800,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				28000,
+				[
+					[
+						"Set Cam Zoom",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				29300,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				32300,
+				[
+					[
+						"Set Cam Zoom",
+						"0.80",
+						""
+					]
+				]
+			],
+			[
+				34300,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				50300,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58300,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			],
+			[
+				64600,
+				[
+					[
+						"BG Freaks Expression",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65500,
+				[
+					[
+						"BG Freaks Expression",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65600,
+				[
+					[
+						"BG Freaks Expression",
+						"",
+						""
+					]
+				]
+			],
+			[
+				67100,
+				[
+					[
+						"BG Freaks Expression",
+						"",
+						""
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"BG Freaks Expression",
+						"",
+						""
+					]
+				]
+			],
+			[
+				68700,
+				[
+					[
+						"BG Freaks Expression",
+						"",
+						""
+					]
+				]
+			],
+			[
+				68800,
+				[
+					[
+						"BG Freaks Expression",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70300,
+				[
+					[
+						"BG Freaks Expression",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70400,
+				[
+					[
+						"BG Freaks Expression",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71900,
+				[
+					[
+						"BG Freaks Expression",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "sex-bomb"
+	}
+}
