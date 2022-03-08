@@ -1,0 +1,263 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-424,
+				19
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "rayman hey"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				-16
+			],
+			"anim": "axe",
+			"fps": 24,
+			"name": "rayman axe",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-84,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "rayman enojado left"
+		},
+		{
+			"offsets": [
+				-84,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "rayman enojado down"
+		},
+		{
+			"offsets": [
+				-84,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "rayman enojado up"
+		},
+		{
+			"offsets": [
+				-84,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "rayman enojado right"
+		},
+		{
+			"offsets": [
+				-84,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "axe atack",
+			"indices": [],
+			"name": "rayman enojado atack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				-15
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "rayman enojado idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "alternate",
+			"fps": 24,
+			"name": "rayman enojado idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-428,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Raynus down"
+		},
+		{
+			"offsets": [
+				-423,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Raynus right"
+		},
+		{
+			"offsets": [
+				-423,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Raynus up"
+		},
+		{
+			"offsets": [
+				-422,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Raynus left"
+		},
+		{
+			"offsets": [
+				-410,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "anus",
+			"indices": [],
+			"name": "Raynus anus"
+		},
+		{
+			"offsets": [
+				-424,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Raynus idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Raynus",
+	"position": [
+		-420,
+		20
+	],
+	"healthicon": "raynus",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		142,
+		0
+	],
+	"camera_position": [
+		280,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,186 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				-16
+			],
+			"anim": "axe",
+			"fps": 24,
+			"name": "rayman axe",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-84,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "axe atack",
+			"indices": [],
+			"name": "rayman enojado atack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "rayman enojado idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-14
+			],
+			"anim": "SAD",
+			"fps": 24,
+			"name": "raymanMAD sad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "raymy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-15
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "raymy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "raymy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "raymy right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-84,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "raymy idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/raymy",
+	"position": [
+		-440,
+		90
+	],
+	"healthicon": "raymy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		142,
+		255
+	],
+	"camera_position": [
+		-210,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

@@ -1,0 +1,186 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				-16
+			],
+			"anim": "axe",
+			"fps": 24,
+			"name": "rayman axe",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "rayman enojado idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-15
+			],
+			"anim": "axe atack",
+			"fps": 26,
+			"name": "rayman enojado atack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-15
+			],
+			"anim": "yeah",
+			"fps": 24,
+			"name": "raymanC ye",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-84,
+				-15
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "raymanC idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-84,
+				-15
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "raymanC right"
+		},
+		{
+			"offsets": [
+				-84,
+				-15
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singUP",
+			"loop": false,
+			"name": "raymanC up"
+		},
+		{
+			"offsets": [
+				-84,
+				-15
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "raymanC down"
+		},
+		{
+			"offsets": [
+				-84,
+				-15
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "raymanC left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/raymanC",
+	"position": [
+		-580,
+		140
+	],
+	"healthicon": "raymanC",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		162,
+		0
+	],
+	"camera_position": [
+		150,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

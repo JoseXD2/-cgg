@@ -1,0 +1,175 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"offsets": [
+				-83,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "axe",
+			"indices": [],
+			"name": "rayman axe"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "rayman enojado idle"
+		},
+		{
+			"offsets": [
+				-81,
+				-15
+			],
+			"loop": false,
+			"fps": 26,
+			"anim": "axe atack",
+			"indices": [],
+			"name": "rayman enojado atack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-81,
+				-14
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "raymB up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "raymB right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "raymB down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "raymB left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-81,
+				-14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "raymB idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/raymB",
+	"position": [
+		-190,
+		40
+	],
+	"healthicon": "raymB",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-240,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

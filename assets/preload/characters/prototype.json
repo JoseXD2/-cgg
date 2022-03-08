@@ -1,0 +1,263 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "rayman hey",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-83,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "axe",
+			"indices": [],
+			"name": "rayman axe"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-15
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "rayman enojado left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-15
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "rayman enojado down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-15
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "rayman enojado up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-15
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "rayman enojado right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-15
+			],
+			"anim": "axe atack",
+			"fps": 24,
+			"name": "rayman enojado atack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "",
+			"indices": [],
+			"name": ""
+		},
+		{
+			"offsets": [
+				-83,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "rayman enojado idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "alternate",
+			"indices": [],
+			"name": "rayman enojado idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-3
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "prototype idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "prototype right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "prototype up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "prototype down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "prototype left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-1
+			],
+			"anim": "yeah",
+			"fps": 24,
+			"name": "prototype yeah",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/prototype",
+	"position": [
+		-370,
+		40
+	],
+	"healthicon": "prototype",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		0,
+		0
+	],
+	"camera_position": [
+		-90,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
