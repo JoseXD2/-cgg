@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Menu_Rayman M idle",
+	"image": "Menu_Rayman",
+	"position": [
+		578,
+		183
+	],
+	"scale": 0.75,
+	"confirm_anim": "M Dad Idle"
+}
