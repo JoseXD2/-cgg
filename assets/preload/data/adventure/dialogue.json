@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.065,
+			"portrait": "rayman",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "WHAT!!"
+		},
+		{
+			"speed": 0.09,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BeEp!"
+		},
+		{
+			"speed": 0.105,
+			"portrait": "rayman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who are you??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rayman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what?..."
+		},
+		{
+			"speed": 0.09,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "he is a rapper"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yes"
+		},
+		{
+			"speed": 0.2,
+			"portrait": "rayman",
+			"boxState": "normal",
+			"expression": "meh",
+			"text": "ok..."
+		},
+		{
+			"speed": 0.14,
+			"portrait": "rayman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and...?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap with me!"
+		},
+		{
+			"speed": 0.17,
+			"portrait": "rayman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why??"
+		},
+		{
+			"speed": 0.01,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "just rap with him."
+		},
+		{
+			"speed": 0.17,
+			"portrait": "rayman",
+			"boxState": "normal",
+			"expression": "meh",
+			"text": "ehh..."
+		}
+	]
+}
