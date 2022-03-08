@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "white",
+		"player1": "bf",
+		"player2": "raymy",
+		"player3": null,
+		"events": [
+			[
+				13777.7777777778,
+				[
+					[
+						"Set Cam Zoom",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				14222.2222222222,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				41777.7777777778,
+				[
+					[
+						"Set Cam Zoom",
+						"1.50",
+						""
+					]
+				]
+			],
+			[
+				42666.6666666667,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				49333.3333333334,
+				[
+					[
+						"Set Cam Zoom",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				49777.7777777778,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "raymanExe",
+		"bpm": 135,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "pihappy"
+	}
+}
