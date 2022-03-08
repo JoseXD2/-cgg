@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rayman3D.png"><SubTexture name="rayman3D idle0000" x="0" y="0" width="503" height="621" frameX="0" frameY="0" frameWidth="503" frameHeight="621" />
+<SubTexture name="rayman3D idle0001" x="503" y="0" width="503" height="621" frameX="0" frameY="0" frameWidth="503" frameHeight="621" />
+<SubTexture name="rayman3D idle0002" x="1006" y="0" width="503" height="621" frameX="0" frameY="0" frameWidth="503" frameHeight="621" />
+<SubTexture name="rayman3D idle0003" x="1509" y="0" width="503" height="621" frameX="0" frameY="0" frameWidth="503" frameHeight="621" />
+<SubTexture name="rayman3D idle0004" x="2012" y="0" width="503" height="621" frameX="0" frameY="0" frameWidth="503" frameHeight="621" />
+<SubTexture name="rayman3D idle0005" x="0" y="621" width="503" height="621" frameX="0" frameY="0" frameWidth="503" frameHeight="621" />
+<SubTexture name="rayman3D idle0006" x="503" y="621" width="503" height="621" frameX="0" frameY="0" frameWidth="503" frameHeight="621" />
+<SubTexture name="rayman3D idle0007" x="1006" y="621" width="503" height="621" frameX="0" frameY="0" frameWidth="503" frameHeight="621" />
+<SubTexture name="rayman3D idle0008" x="1509" y="621" width="503" height="621" frameX="0" frameY="0" frameWidth="503" frameHeight="621" />
+<SubTexture name="rayman3D idle0009" x="2012" y="621" width="503" height="621" frameX="0" frameY="0" frameWidth="503" frameHeight="621" />
+<SubTexture name="rayman3D idle0010" x="0" y="1242" width="503" height="621" frameX="0" frameY="0" frameWidth="503" frameHeight="621" />
+<SubTexture name="rayman3D idle0011" x="503" y="1242" width="503" height="621" frameX="0" frameY="0" frameWidth="503" frameHeight="621" />
+<SubTexture name="rayman3D idle0012" x="1006" y="1242" width="503" height="621" frameX="0" frameY="0" frameWidth="503" frameHeight="621" />
+<SubTexture name="rayman3D idle0013" x="1509" y="1242" width="503" height="621" frameX="0" frameY="0" frameWidth="503" frameHeight="621" />
+<SubTexture name="rayman3D idle0014" x="2012" y="1242" width="503" height="621" frameX="0" frameY="0" frameWidth="503" frameHeight="621" />
+<SubTexture name="rayman3D down0000" x="0" y="1863" width="484" height="546" frameX="0" frameY="0" frameWidth="484" frameHeight="546" />
+<SubTexture name="rayman3D down0001" x="484" y="1863" width="484" height="546" frameX="0" frameY="0" frameWidth="484" frameHeight="546" />
+<SubTexture name="rayman3D down0002" x="968" y="1863" width="484" height="546" frameX="0" frameY="0" frameWidth="484" frameHeight="546" />
+<SubTexture name="rayman3D down0003" x="1452" y="1863" width="484" height="546" frameX="0" frameY="0" frameWidth="484" frameHeight="546" />
+<SubTexture name="rayman3D down0004" x="1936" y="1863" width="484" height="546" frameX="0" frameY="0" frameWidth="484" frameHeight="546" />
+<SubTexture name="rayman3D left0000" x="0" y="2409" width="439" height="593" frameX="0" frameY="0" frameWidth="439" frameHeight="593" />
+<SubTexture name="rayman3D left0001" x="439" y="2409" width="439" height="593" frameX="0" frameY="0" frameWidth="439" frameHeight="593" />
+<SubTexture name="rayman3D left0002" x="878" y="2409" width="439" height="593" frameX="0" frameY="0" frameWidth="439" frameHeight="593" />
+<SubTexture name="rayman3D left0003" x="1317" y="2409" width="439" height="593" frameX="0" frameY="0" frameWidth="439" frameHeight="593" />
+<SubTexture name="rayman3D left0004" x="1756" y="2409" width="439" height="593" frameX="0" frameY="0" frameWidth="439" frameHeight="593" />
+<SubTexture name="rayman3D right0000" x="0" y="3002" width="513" height="595" frameX="0" frameY="0" frameWidth="513" frameHeight="595" />
+<SubTexture name="rayman3D right0001" x="513" y="3002" width="513" height="595" frameX="0" frameY="0" frameWidth="513" frameHeight="595" />
+<SubTexture name="rayman3D right0002" x="1026" y="3002" width="513" height="595" frameX="0" frameY="0" frameWidth="513" frameHeight="595" />
+<SubTexture name="rayman3D right0003" x="1539" y="3002" width="513" height="595" frameX="0" frameY="0" frameWidth="513" frameHeight="595" />
+<SubTexture name="rayman3D right0004" x="2052" y="3002" width="513" height="595" frameX="0" frameY="0" frameWidth="513" frameHeight="595" />
+<SubTexture name="rayman3D up0000" x="0" y="3597" width="582" height="601" frameX="0" frameY="0" frameWidth="582" frameHeight="601" />
+<SubTexture name="rayman3D up0001" x="582" y="3597" width="582" height="601" frameX="0" frameY="0" frameWidth="582" frameHeight="601" />
+<SubTexture name="rayman3D up0002" x="1164" y="3597" width="582" height="601" frameX="0" frameY="0" frameWidth="582" frameHeight="601" />
+<SubTexture name="rayman3D up0003" x="1746" y="3597" width="582" height="601" frameX="0" frameY="0" frameWidth="582" frameHeight="601" />
+<SubTexture name="rayman3D up0004" x="2328" y="3597" width="582" height="601" frameX="0" frameY="0" frameWidth="582" frameHeight="601" />
+</TextureAtlas>
