@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.14,
+			"portrait": "magician",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh, Hi little Guy!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beeP!"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "magician",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I have brought you here so you can get to know the wonderful Rayman universe"
+		},
+		{
+			"speed": 0.075,
+			"portrait": "magician",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "There's a whole universe of raymans waiting to have a rap battle!"
+		},
+		{
+			"speed": 0.12,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop"
+		},
+		{
+			"speed": 0.195,
+			"portrait": "magician",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but first..."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "magician",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "See if you have what it takes to rap against them."
+		},
+		{
+			"speed": 0.13,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": ":D"
+		}
+	]
+}
