@@ -1,22 +1,103 @@
 {
-	"songs": [
-		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
-	],
-
-	"weekCharacters": [
-		"pico",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "philly",
-
-	"storyName": "PICO",
+	"storyName": "RaymanExtra",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "extra",
 	"weekBefore": "week2",
-	"weekName": "Week 3",
-	"startUnlocked": true,
-
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"challenge",
+			"magician",
+			[
+				120,
+				195,
+				195
+			]
+		],
+		[
+			"sex-bomb",
+			"funado",
+			[
+				106,
+				173,
+				255
+			]
+		],
+		[
+			"Discarded",
+			"prototype",
+			[
+				146,
+				0,
+				0
+			]
+		],
+		[
+			"Loves rayman",
+			"raymanmad",
+			[
+				206,
+				235,
+				15
+			]
+		],
+		[
+			"microwevon",
+			"microray",
+			[
+				126,
+				133,
+				175
+			]
+		],
+		[
+			"pihappy",
+			"raymy",
+			[
+				255,
+				193,
+				215
+			]
+		],
+		[
+			"unlimited",
+			"raynus",
+			[
+				155,
+				155,
+				133
+			]
+		],
+		[
+			"old-times",
+			"raymanc",
+			[
+				166,
+				193,
+				255
+			]
+		],
+		[
+			"bewitched",
+			"raymesis",
+			[
+				46,
+				133,
+				195
+			]
+		]
+	],
+	"weekName": "raymanExtra"
 }

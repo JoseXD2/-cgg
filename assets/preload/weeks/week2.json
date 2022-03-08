@@ -1,22 +1,49 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+	"storyName": "vs rayman",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "rayman",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
 	"weekBefore": "week1",
-	"weekName": "Week 2",
-	"startUnlocked": true,
-
+	"startUnlocked": false,
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"adventure",
+			"rayman",
+			[
+				255,
+				255,
+				173
+			]
+		],
+		[
+			"origins",
+			"rayman",
+			[
+				255,
+				255,
+				173
+			]
+		],
+		[
+			"legends",
+			"raymanangry",
+			[
+				215,
+				215,
+				233
+			]
+		]
+	],
+	"weekName": "rayman"
 }
