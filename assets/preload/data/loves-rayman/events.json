@@ -1,0 +1,109 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "MAD",
+		"player1": "bf",
+		"player2": "raymanMAD",
+		"player3": null,
+		"events": [
+			[
+				75,
+				[
+					[
+						"Set Cam Zoom",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				1200,
+				[
+					[
+						"Set Cam Zoom",
+						"1.50",
+						""
+					]
+				]
+			],
+			[
+				2850,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				3450,
+				[
+					[
+						"Play Animation",
+						"SAD",
+						"raymanMAD"
+					]
+				]
+			],
+			[
+				4800,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				12300,
+				[
+					[
+						"Play Animation",
+						"SAD",
+						"raymanMAD"
+					]
+				]
+			],
+			[
+				32538.4615384615,
+				[
+					[
+						"Play Animation",
+						"SAD",
+						"raymanMAD"
+					]
+				]
+			],
+			[
+				37442.3076923077,
+				[
+					[
+						"Play Animation",
+						"SAD",
+						"raymanMAD"
+					]
+				]
+			],
+			[
+				61742.3076923077,
+				[
+					[
+						"Play Animation",
+						"SAD",
+						"raymanMAD"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "loves-rayman"
+	}
+}
