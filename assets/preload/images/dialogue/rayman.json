@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-460,
+		-50
+	],
+	"scale": 1.4,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-1
+			],
+			"loop_name": "rayman talk",
+			"idle_name": "BF0"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-4,
+				0
+			],
+			"loop_name": "rayman surp",
+			"idle_name": "BF SHOCK0"
+		},
+		{
+			"loop_name": "rayman angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF EXCITED0",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "rayman ok",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF EXCITED0",
+			"anim": "meh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Rayman_Dialogue"
+}
